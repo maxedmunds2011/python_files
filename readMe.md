@@ -17,4 +17,4 @@
 - Learnt about Processing Data
 - Wrote many lines of Pseudocode
 
-This week I got Prac 0 done quite quickly, which allowed me to get to Stage 2 early on. Though the very first slide gave me some issues, and I had a hard time using equal signs and certain pseudocode, in the end I created a good amount of Python code with 'if' and 'else' statements depending on what you typed in (for example if you said you were less than 12, it would tell you to 'Go do something else with your life'). This gave me a better understanding how inputs work, and gives me some integer types to play with in later courses.
+This week I got Prac 0 done quite quickly, which allowed me to get to Stage 2 early on. Though the very first slide gave me some issues, and I had a hard time using equal signs and certain pseudocode, in the end I created a good amount of Python code with 'if' and 'else' statements depending on what you typed in (for example if you said you were less than 12, it would tell you to 'Go do something else with your life'). This gave me a better understanding how inputs work, and gives me some integer types to play with in later courses! Hello there!!!
