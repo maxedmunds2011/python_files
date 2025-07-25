@@ -55,7 +55,3 @@ def check_end_game(current_room, inventory):
         print("ENDING: GUNFIGHT IN THE HALLWAY")
         return True
     return False
-
-print(Fore.YELLOW + "You are in the ARMOURY.")
-print(Fore.CYAN + "You see: blaster")
-print(Fore.RED + "You can't go that way.")
